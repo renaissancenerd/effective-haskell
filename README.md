@@ -1,0 +1,1 @@
+As a beginner in Haskell, I am using [Effective Haskell](https://pragprog.com/titles/rshaskell/effective-haskell/) by Rebecca Skinner to learn Haskell and hopefully contribute to real-world and research applications.
