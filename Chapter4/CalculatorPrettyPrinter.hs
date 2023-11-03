@@ -1,3 +1,5 @@
+{-# LANGUAGE DerivingStrategies #-}
+
 module CalculatorPrettyPrinter where
 
 import Text.Read (readEither)
